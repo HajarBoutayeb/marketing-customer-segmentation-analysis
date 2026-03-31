@@ -105,8 +105,6 @@ Includes:
 
 ## 💡 Future Improvements
 
-* Try DBSCAN / GMM
-* Apply PCA for dimensionality reduction
 * Build dashboard (Power BI / Streamlit)
 
 ---
